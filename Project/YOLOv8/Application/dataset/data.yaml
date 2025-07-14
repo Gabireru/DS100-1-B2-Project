@@ -1,0 +1,5 @@
+train: C:\Users\chanc\OneDrive\Desktop\CPE117-4_AI_Program\dataset\images\train
+val: C:\Users\chanc\OneDrive\Desktop\CPE117-4_AI_Program\dataset\images\val
+
+nc: 1  # Number of classes
+names: ["air_pollutant"]
